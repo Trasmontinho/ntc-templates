@@ -1,0 +1,11 @@
+A:SROS# ping 10.10.10.1
+PING 10.10.10.1 56 data bytes
+64 bytes from 10.10.10.1: icmp_seq=1 ttl=61 time=13.2ms.
+64 bytes from 10.10.10.1: icmp_seq=2 ttl=61 time=13.2ms.
+64 bytes from 10.10.10.1: icmp_seq=3 ttl=61 time=13.2ms.
+64 bytes from 10.10.10.1: icmp_seq=4 ttl=61 time=13.2ms.
+64 bytes from 10.10.10.1: icmp_seq=5 ttl=61 time=13.2ms.
+
+---- 89.81.71.44 PING Statistics ----
+5 packets transmitted, 5 packets received, 0.00% packet loss
+round-trip min = 13.2ms, avg = 13.2ms, max = 13.2ms, stddev = 0.002ms
