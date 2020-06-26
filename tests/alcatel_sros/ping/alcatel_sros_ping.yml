@@ -1,0 +1,10 @@
+---
+parsed_sample:
+  - sent_qty: "5"
+    destination: "10.10.10.1"
+    loss_pct: "0"
+    success_qty: "5"
+    rtt_min: "13"
+    rtt_avg: "13"
+    rtt_max: "13"
+    rtt_sttdev: "0"
